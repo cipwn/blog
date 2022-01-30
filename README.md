@@ -9,7 +9,7 @@ description: >-
 ## Contents:
 
 * [Networking](networking/)
-* [Security](security.md)
+* [Security](security/)
 * [Privacy](privacy.md)
 * [Hacking](hacking.md)
 * [Encryption](encryption.md)

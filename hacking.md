@@ -4,7 +4,7 @@ description: >-
   offense
 ---
 
-# Hacking
+# 〽 Hacking
 
 What will be covered in this topic:&#x20;
 
