@@ -10,7 +10,7 @@ description: >-
 
 * [Networking](networking/)
 * [Security](security/)
-* [Privacy](privacy.md)
+* [Privacy](privacy/)
 * [Hacking](hacking.md)
 * [Encryption](encryption.md)
 * [Open Source Intelligence](open-source-intelligence.md)
