@@ -8,10 +8,10 @@ description: >-
 
 ## Contents:
 
-* [Networking](networking/)
-* [Security](security/)
-* [Privacy](privacy.md)
-* [Hacking](hacking/)
-* [Encryption](encryption.md)
-* [Open Source Intelligence](open-source-intelligence.md)
+* [**Networking**](networking/)****
+* ****[**Security**](security/)****
+* ****[**Privacy**](privacy.md)****
+* ****[**Hacking**](hacking/)****
+* ****[**Encryption**](encryption.md)****
+* ****[**Open Source Intelligence**](open-source-intelligence.md)****
 
